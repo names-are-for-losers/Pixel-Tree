@@ -1,6 +1,6 @@
 ![Banner](https://github.com/names-are-for-losers/Pixel-Tree/raw/extra-assets/big_banner.png)
 # Pixel Tree
- Pixel Tree is a Minecraft resource pack or texture pack that works best on version 1.12.3 of java edition. This texture pack is prides itself on being purely a vanilla texture pack that does not need optifine or any other extention to work.
+ Pixel Tree is a Minecraft resource pack or texture pack that works best on version 1.21.3 of java edition. This texture pack is prides itself on being purely a vanilla texture pack that does not need optifine or any other extention to work.
 
  ## Details
  This texture pack is thematic, and likes straying off of the usual textures with creative, unique, and immersive art, that gives the player a fresh experience to the game's world and user interface. 
